@@ -16,11 +16,11 @@
 		
 				<tr>
 					<td><label class="login_label">User name</label></td>
-					<td><input type="text" name="username" /></td>
+					<td><input type="text" class="form-control" name="username" /></td>
 				</tr>
 				<tr>
 					<td><label class="login_label">Password</label></td>
-					<td><input type="password" name="password"></td>
+					<td><input type="password" class="form-control" name="password"></td>
 				</tr>
 				<tr> 
 					<td>&nbsp</td>
