@@ -1,0 +1,23 @@
+.btn-group button{
+    background-color: #008ae6;
+    color:white;
+}
+   .btn-group button:hover {
+   	background-color: #4db8ff;
+}
+#logout{
+	position: relative;
+ 		float: right;
+}
+
+.navbar-btn button{
+   background-color: #008ae6;
+   color:white;
+   }
+   .navbar-btn button:hover {
+   	background-color: #4db8ff;
+}
+
+#logut{
+	float:"right";
+}

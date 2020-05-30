@@ -18,7 +18,7 @@ public class LoginServlet extends HttpServlet{
             HttpServletResponse resp)
      throws ServletException,
             IOException{		
-		
+		System.out.println("dir servlet: "+System.getProperty("user.dir"));
 		req.getRequestDispatcher("/WEB-INF/views/login.jsp").forward(req, resp);
 	}
 	
