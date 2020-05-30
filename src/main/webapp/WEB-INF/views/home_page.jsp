@@ -7,14 +7,10 @@
 <title>Home Page</title>
 
 <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="http://localhost:8080/BookSeller.com/WEB-INF/css/homepage.css">
+<link rel="stylesheet" type="text/css" href="/css/homepage.css">
 
 </head>
 <body>
-<%
-System.out.println(System.getProperty("user.dir"));
-
-%>
 	<div class="container-fluid">
 		<div class="row">
 			
